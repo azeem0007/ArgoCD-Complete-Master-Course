@@ -1,5 +1,5 @@
 
-# Creating and Configuring Argo CD Projects
+# Creating and Configuring Argo CD Projectsaa
 
 This guide provides a step-by-step demonstration on how to create and configure Argo CD Projects, including sample files, commands, and details.
 
